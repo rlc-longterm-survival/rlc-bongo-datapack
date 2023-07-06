@@ -1,0 +1,16 @@
+{
+  "game": {
+    "win_condition": "bongo.all",
+    "invulnerable": false,
+    "pvp": false,
+    "friendly_fire": true,
+    "lock_task_on_death": false,
+    "teleports_per_team": 0,
+    "time": 9000,
+    "leaderboard": true
+  },
+  "level": {
+    "teleporter": "bongo.default"
+  },
+  "equipment": {}
+}
