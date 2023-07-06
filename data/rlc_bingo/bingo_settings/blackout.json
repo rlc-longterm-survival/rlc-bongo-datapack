@@ -4,6 +4,7 @@
     "invulnerable": false,
     "pvp": false,
     "friendly_fire": true,
+    "consume_items": true,
     "lock_task_on_death": false,
     "teleports_per_team": 0,
     "time": 9000,

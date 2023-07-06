@@ -1,13 +1,13 @@
 {
 	"game": {
-	  "win_condition": "bongo.row_and_column",
+	  "win_condition": "bongo.one",
 	  "invulnerable": false,
 	  "pvp": false,
 	  "friendly_fire": true,
 	  "consume_items": true,
 	  "lock_task_on_death": false,
 	  "teleports_per_team": 0,
-	  "time": 5400,
+	  "time": 600,
 	  "leaderboard": true
 	},
 	"level": {
