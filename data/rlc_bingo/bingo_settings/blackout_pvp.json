@@ -11,7 +11,8 @@
 	  "leaderboard": true
 	},
 	"level": {
-	  "teleporter": "bongo.no_tp"
+	  "teleporter": "bongo.no_tp",
+	  "teleport_radius": 1000000
 	},
 	"equipment": {}
   }
