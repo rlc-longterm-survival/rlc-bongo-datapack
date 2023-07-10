@@ -12,7 +12,7 @@
 	},
 	"level": {
 	  "teleporter": "bongo.no_tp",
-	  "teleport_radius": 1000000
+	  "teleport_radius": 100000
 	},
 	"equipment": {}
   }
