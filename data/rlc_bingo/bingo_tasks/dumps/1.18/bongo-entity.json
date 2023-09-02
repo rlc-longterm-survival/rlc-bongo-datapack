@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.entity",
+      "value": "minecraft:axolotl"
+    }
+  ]
+}

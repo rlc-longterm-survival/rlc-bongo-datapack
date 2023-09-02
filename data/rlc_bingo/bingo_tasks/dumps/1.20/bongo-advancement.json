@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/read_power_of_chiseled_bookshelf"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/salvage_sherd"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/trim_with_any_armor_pattern"
+    }
+  ]
+}

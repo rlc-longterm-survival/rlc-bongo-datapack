@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.biome",
+      "value": "minecraft:deep_dark"
+    }
+  ]
+}

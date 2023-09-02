@@ -1,0 +1,100 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:bamboo_hanging_sign"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:bamboo_mosaic"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:bamboo_planks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:bamboo_raft"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:bamboo_sign"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:cherry_wood"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:chiseled_bookshelf"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:decorated_pot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:music_disc_relic"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:oak_hanging_sign"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:pink_petals"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:sniffer_egg"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:suspicious_gravel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:suspicious_sand"
+      }
+    }
+  ]
+}

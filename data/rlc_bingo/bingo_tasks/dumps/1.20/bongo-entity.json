@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.entity",
+      "value": "minecraft:camel"
+    },
+    {
+      "type": "bongo.entity",
+      "value": "minecraft:sniffer"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:axolotl_bucket",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:trident",
+        "count": 1
+      }
+    }
+  ]
+}

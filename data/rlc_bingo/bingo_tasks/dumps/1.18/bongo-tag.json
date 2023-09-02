@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "forge:tools",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "forge:tools/tridents",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:breaks_decorated_pots",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:tools",
+        "count": 1
+      }
+    }
+  ]
+}

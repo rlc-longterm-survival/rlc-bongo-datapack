@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.effect",
+      "value": "minecraft:night_vision"
+    }
+  ]
+}

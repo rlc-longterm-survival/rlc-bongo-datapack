@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/fall_from_world_height"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/play_jukebox_in_meadows"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/spyglass_at_dragon"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/spyglass_at_ghast"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/spyglass_at_parrot"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/throw_trident"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/trade_at_world_height"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/walk_on_powder_snow_with_leather_boots"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:husbandry/axolotl_in_a_bucket"
+    }
+  ]
+}

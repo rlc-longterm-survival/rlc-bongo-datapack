@@ -1,0 +1,130 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:cherry_chest_boat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:disc_fragment_5"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:echo_shard"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:goat_horn"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:mangrove_propagule"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:mangrove_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:mud"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:mud_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:muddy_mangrove_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:music_disc_5"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:music_disc_otherside"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:oak_chest_boat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:ochre_froglight"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:pearlescent_froglight"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:recovery_compass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:sculk"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:sculk_catalyst"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:sculk_sensor"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:sculk_shrieker"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:tadpole_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "value": {
+        "item": "minecraft:verdant_froglight"
+      }
+    }
+  ]
+}

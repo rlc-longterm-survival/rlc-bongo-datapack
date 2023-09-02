@@ -1,4233 +1,4507 @@
 {
-	"tasks": [
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:acacia_boat"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:acacia_leaves"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:acacia_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:activator_rail"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:allium"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:amethyst_cluster"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:ancient_debris"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:andesite_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:anvil"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 30,
-		"value": {
-		  "item": "minecraft:apple"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:armor_stand"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:azalea"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:azure_bluet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:baked_potato"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:bamboo"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:barrel"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:basalt"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:beacon"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:bee_nest"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:beef"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:beehive"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:beetroot_seeds"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:beetroot_soup"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:bell"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:big_dripleaf"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:birch_fence_gate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:black_banner"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:black_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:black_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:black_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 5,
-		"value": {
-		  "item": "minecraft:blackstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 5,
-		"value": {
-		  "item": "minecraft:blackstone_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 5,
-		"value": {
-		  "item": "minecraft:blackstone_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:blast_furnace"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:blaze_powder"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:blaze_rod"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:blue_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:blue_ice"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:blue_orchid"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:blue_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:bone_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:bone_meal"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:book"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:bookshelf"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brain_coral"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brain_coral_fan"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:bread"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:brewing_stand"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brick"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brick_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:brown_bed"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 30,
-		"value": {
-		  "item": "minecraft:brown_mushroom"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:brown_mushroom_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:brown_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:bubble_coral"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:bubble_coral_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:bubble_coral_fan"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cactus"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cake"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:campfire"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:carrot_on_a_stick"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cartography_table"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:carved_pumpkin"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cauldron"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:chain"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:charcoal"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chest_minecart"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:chipped_anvil"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chiseled_nether_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chiseled_polished_blackstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chiseled_quartz_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chiseled_red_sandstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chiseled_sandstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:chiseled_stone_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:chorus_flower"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:chorus_fruit"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:clay"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:clock"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:coal_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:coal_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:coarse_dirt"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:cocoa_beans"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:cod_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:comparator"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:compass"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:composter"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:conduit"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_beef"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_chicken"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_cod"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_mutton"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_porkchop"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_rabbit"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cooked_salmon"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cookie"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cornflower"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:cracked_nether_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:cracked_polished_blackstone_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:cracked_stone_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:crimson_nylium"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:crimson_planks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:crimson_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:crimson_stem"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:crossbow"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:crying_obsidian"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cut_red_sandstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cut_red_sandstone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cut_sandstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:cut_sandstone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 17,
-		"value": {
-		  "item": "minecraft:cyan_concrete"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:cyan_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 17,
-		"value": {
-		  "item": "minecraft:cyan_wool"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:damaged_anvil"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dandelion"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dark_oak_sapling"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dark_oak_wood"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:dark_prismarine"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:dark_prismarine_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:dark_prismarine_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:daylight_detector"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:dead_brain_coral"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:dead_brain_coral_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:dead_brain_coral_fan"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:detector_rail"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_axe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:diamond_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_boots"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_chestplate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_helmet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_hoe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_horse_armor"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_leggings"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_pickaxe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_shovel"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diamond_sword"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:diorite_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dispenser"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:dragon_breath"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:dragon_egg"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:dragon_head"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dried_kelp"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dried_kelp_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:dropper"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:egg"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:elytra"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:emerald_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:emerald_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:enchanting_table"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:end_crystal"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:end_rod"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:end_stone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:end_stone_brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:end_stone_brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:end_stone_brick_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:end_stone_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:ender_chest"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:ender_eye"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:ender_pearl"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:fermented_spider_eye"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:fern"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:fire_charge"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:fire_coral"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:fire_coral_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:fire_coral_fan"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:fishing_rod"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:fletching_table"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:flower_pot"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:flowering_azalea"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:furnace_minecart"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:ghast_tear"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:gilded_blackstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:glass_bottle"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:glass_pane"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:glistering_melon_slice"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:glowstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:glowstone_dust"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:gold_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:gold_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_apple"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_axe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_boots"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_carrot"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_chestplate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_helmet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_horse_armor"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_leggings"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_pickaxe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:golden_shovel"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:granite_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:grass"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:grass_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:gray_concrete_powder"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:gray_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:gray_stained_glass_pane"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:green_dye"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:green_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:grindstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:gunpowder"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:hay_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:heart_of_the_sea"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 16,
-		"value": {
-		  "item": "minecraft:heavy_weighted_pressure_plate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:honey_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:honey_bottle"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:honeycomb"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:honeycomb_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:hopper"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:hopper_minecart"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:horn_coral"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:horn_coral_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:horn_coral_fan"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:ice"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 23,
-		"value": {
-		  "item": "minecraft:ink_sac"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_bars"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_door"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_helmet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_horse_armor"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_leggings"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_pickaxe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_shovel"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:iron_sword"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 23,
-		"value": {
-		  "item": "minecraft:item_frame"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 23,
-		"value": {
-		  "item": "minecraft:jack_o_lantern"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:jukebox"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 16,
-		"value": {
-		  "item": "minecraft:jungle_log"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 16,
-		"value": {
-		  "item": "minecraft:jungle_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:kelp"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 28,
-		"value": {
-		  "item": "minecraft:lantern"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:lapis_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:lapis_lazuli"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:lapis_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:lava_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:lead"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:leather_chestplate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:leather_leggings"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:lectern"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:light_blue_banner"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:light_blue_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:light_gray_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:light_gray_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:light_weighted_pressure_plate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:lilac"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:lily_of_the_valley"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:lily_pad"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:lime_dye"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:lime_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:lime_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:lodestone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:loom"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:magenta_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:magenta_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:magenta_wool"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:magma_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:magma_cream"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:melon"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:melon_seeds"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:melon_slice"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:milk_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 29,
-		"value": {
-		  "item": "minecraft:minecart"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_cobblestone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_cobblestone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_cobblestone_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_cobblestone_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_stone_brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_stone_brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_stone_brick_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:mossy_stone_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:mushroom_stew"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_11"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_13"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_blocks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_cat"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_chirp"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_far"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:music_disc_mall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:music_disc_mellohi"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_pigstep"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_stal"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_strad"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_wait"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:music_disc_ward"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:mutton"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:mycelium"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:name_tag"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:nautilus_shell"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:nether_brick"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:nether_brick_fence"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:nether_brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:nether_brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:nether_brick_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:nether_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 5,
-		"value": {
-		  "item": "minecraft:nether_gold_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 5,
-		"value": {
-		  "item": "minecraft:nether_quartz_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:nether_sprouts"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:nether_star"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:nether_wart"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:nether_wart_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_axe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_boots"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_chestplate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_helmet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_hoe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_ingot"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_leggings"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_pickaxe"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_scrap"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_shovel"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:netherite_sword"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:note_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:oak_wood"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 23,
-		"value": {
-		  "item": "minecraft:observer"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:obsidian"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:orange_bed"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:orange_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:orange_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:orange_tulip"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:orange_wool"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:oxeye_daisy"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:packed_ice"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:painting"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:paper"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:peony"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 25,
-		"value": {
-		  "item": "minecraft:phantom_membrane"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:pink_carpet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:pink_dye"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:pink_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:pink_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:piston"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:podzol"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:poisonous_potato"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 27,
-		"value": {
-		  "item": "minecraft:polished_andesite"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_basalt"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_button"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_pressure_plate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:polished_blackstone_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:polished_diorite_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 8,
-		"value": {
-		  "item": "minecraft:polished_granite_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:popped_chorus_fruit"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 28,
-		"value": {
-		  "item": "minecraft:poppy"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 28,
-		"value": {
-		  "item": "minecraft:porkchop"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 28,
-		"value": {
-		  "item": "minecraft:potato"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:powder_snow_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:powered_rail"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_crystals"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_shard"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:prismarine_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 23,
-		"value": {
-		  "item": "minecraft:pufferfish"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 23,
-		"value": {
-		  "item": "minecraft:pufferfish_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:pumpkin"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:pumpkin_pie"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:pumpkin_seeds"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:purple_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:purpur_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:purpur_pillar"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:purpur_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:purpur_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:quartz_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:quartz_pillar"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:quartz_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:quartz_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:rabbit"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:rabbit_foot"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:rabbit_hide"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:rabbit_stew"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:rail"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:red_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:red_mushroom"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:red_nether_brick_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:red_nether_brick_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:red_nether_brick_wall"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:red_nether_bricks"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:red_sand"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:red_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:red_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:red_tulip"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:red_wool"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:redstone_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:redstone_lamp"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:redstone_ore"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:redstone_torch"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:repeater"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:rose_bush"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:saddle"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:salmon"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:salmon_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:scaffolding"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:scute"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:sea_lantern"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:sea_pickle"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:seagrass"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:shroomlight"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:shulker_shell"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:slime_ball"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:slime_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:smithing_table"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:smoker"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_quartz"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_quartz_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_quartz_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_red_sandstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_red_sandstone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_red_sandstone_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_sandstone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_stone"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:smooth_stone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 16,
-		"value": {
-		  "item": "minecraft:snow_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 16,
-		"value": {
-		  "item": "minecraft:snowball"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:soul_campfire"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:soul_lantern"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:soul_sand"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:soul_soil"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 11,
-		"value": {
-		  "item": "minecraft:soul_torch"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 19,
-		"value": {
-		  "item": "minecraft:spectral_arrow"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:sponge"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:spruce_fence"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:spruce_pressure_plate"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:spyglass"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:sticky_piston"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:stone_slab"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:stone_stairs"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:stonecutter"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:stripped_crimson_hyphae"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:stripped_crimson_stem"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:stripped_oak_log"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:stripped_warped_hyphae"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:stripped_warped_stem"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:sugar"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 16,
-		"value": {
-		  "item": "minecraft:sunflower"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 13,
-		"value": {
-		  "item": "minecraft:suspicious_stew"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:sweet_berries"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:tall_grass"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:target"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 20,
-		"value": {
-		  "item": "minecraft:terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:tnt"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 22,
-		"value": {
-		  "item": "minecraft:tnt_minecart"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 18,
-		"value": {
-		  "item": "minecraft:totem_of_undying"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:trapped_chest"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:trident"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:tripwire_hook"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 12,
-		"value": {
-		  "item": "minecraft:tropical_fish_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:tube_coral"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:tube_coral_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:tube_coral_fan"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:turtle_egg"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:turtle_helmet"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:twisting_vines"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:vine"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_button"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_door"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_fungus"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_fungus_on_a_stick"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_roots"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_trapdoor"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:warped_wart_block"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:water_bucket"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:weeping_vines"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 14,
-		"value": {
-		  "item": "minecraft:wet_sponge"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:white_dye"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:white_glazed_terracotta"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:wither_rose"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 30,
-		"value": {
-		  "item": "minecraft:wither_skeleton_skull"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 24,
-		"value": {
-		  "item": "minecraft:writable_book"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:yellow_bed"
-		}
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 10,
-		"value": {
-		  "item": "minecraft:yellow_shulker_box"
-		}
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:bat"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:bee"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:blaze"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 12,
-		"value": "minecraft:dolphin"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:donkey"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 14,
-		"value": "minecraft:drowned"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:elder_guardian"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 12,
-		"value": "minecraft:ender_dragon"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:enderman"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:endermite"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 14,
-		"value": "minecraft:evoker"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:fox"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:ghast"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:guardian"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:hoglin"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:horse"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:husk"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:illusioner"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 19,
-		"value": "minecraft:iron_golem"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:llama"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:magma_cube"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:mule"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 14,
-		"value": "minecraft:ocelot"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 13,
-		"value": "minecraft:panda"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 13,
-		"value": "minecraft:parrot"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:phantom"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:piglin"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:pillager"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 14,
-		"value": "minecraft:polar_bear"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 14,
-		"value": "minecraft:pufferfish"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 18,
-		"value": "minecraft:rabbit"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:ravager"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:salmon"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:sheep"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:shulker"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:silverfish"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:skeleton_horse"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 13,
-		"value": "minecraft:slime"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:snow_golem"
-	  },
-	  {
-		"type": "bongo.item",
-		"weight": 15,
-		"value": {
-		  "item": "minecraft:spore_blossom"
-		}
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 24,
-		"value": "minecraft:stray"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 25,
-		"value": "minecraft:strider"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:trader_llama"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:tropical_fish"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:turtle"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:vex"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 17,
-		"value": "minecraft:villager"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 15,
-		"value": "minecraft:vindicator"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 14,
-		"value": "minecraft:wandering_trader"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 17,
-		"value": "minecraft:witch"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 10,
-		"value": "minecraft:wither"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 22,
-		"value": "minecraft:wither_skeleton"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 22,
-		"value": "minecraft:wolf"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:zoglin"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:zombie_villager"
-	  },
-	  {
-		"type": "bongo.entity",
-		"weight": 20,
-		"value": "minecraft:zombified_piglin"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/obtain_crying_obsidian"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/distract_piglin"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/obtain_armor"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 2,
-		"value": "minecraft:adventure/very_very_frightening"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/lava_bucket"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:end/kill_dragon"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 2,
-		"value": "minecraft:nether/all_potions"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:husbandry/tame_an_animal"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 13,
-		"value": "minecraft:nether/create_beacon"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/deflect_arrow"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/iron_tools"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 30,
-		"value": "minecraft:nether/brew_potion"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:end/dragon_egg"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 22,
-		"value": "minecraft:husbandry/fishy_business"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 23,
-		"value": "minecraft:nether/explore_nether"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:nether/ride_strider"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:adventure/sniper_duel"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:nether/root"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 28,
-		"value": "minecraft:end/levitate"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 1,
-		"value": "minecraft:nether/all_effects"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:adventure/bullseye"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/get_wither_skull"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 5,
-		"value": "minecraft:husbandry/bred_all_animals"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:story/mine_stone"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 8,
-		"value": "minecraft:adventure/two_birds_one_arrow"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/enter_the_nether"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:adventure/whos_the_pillager_now"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:story/upgrade_tools"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:husbandry/tactical_fishing"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:story/cure_zombie_villager"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 8,
-		"value": "minecraft:end/find_end_city"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 22,
-		"value": "minecraft:story/form_obsidian"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:end/enter_end_gateway"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 22,
-		"value": "minecraft:nether/obtain_blaze_rod"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:nether/loot_bastion"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:adventure/shoot_arrow"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:husbandry/silk_touch_nest"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:adventure/arbalistic"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:end/respawn_dragon"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/smelt_iron"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/charge_respawn_anchor"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:story/shiny_gear"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 16,
-		"value": "minecraft:end/elytra"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 16,
-		"value": "minecraft:adventure/summon_iron_golem"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 19,
-		"value": "minecraft:nether/return_to_sender"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:adventure/sleep_in_bed"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:end/dragon_breath"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 5,
-		"value": "minecraft:adventure/root"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:adventure/kill_all_mobs"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:story/enchant_item"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 8,
-		"value": "minecraft:adventure/voluntary_exile"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:story/follow_ender_eye"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 30,
-		"value": "minecraft:end/root"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:husbandry/obtain_netherite_hoe"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:adventure/totem_of_undying"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 5,
-		"value": "minecraft:adventure/kill_a_mob"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:adventure/adventuring_time"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 5,
-		"value": "minecraft:husbandry/plant_seed"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:nether/find_bastion"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 8,
-		"value": "minecraft:adventure/hero_of_the_village"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:nether/obtain_ancient_debris"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:nether/create_full_beacon"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 22,
-		"value": "minecraft:nether/summon_wither"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 15,
-		"value": "minecraft:husbandry/balanced_diet"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/fast_travel"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 8,
-		"value": "minecraft:husbandry/root"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:nether/use_lodestone"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 18,
-		"value": "minecraft:husbandry/safely_harvest_honey"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:adventure/trade"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 5,
-		"value": "minecraft:nether/uneasy_alliance"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:story/mine_diamond"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/find_fortress"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:adventure/throw_trident"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 8,
-		"value": "minecraft:story/root"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 22,
-		"value": "minecraft:adventure/honey_block_slide"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:adventure/ol_betsy"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 20,
-		"value": "minecraft:nether/netherite_armor"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 25,
-		"value": "minecraft:story/enter_the_end"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:husbandry/breed_an_animal"
-	  },
-	  {
-		"type": "bongo.advancement",
-		"weight": 10,
-		"value": "minecraft:husbandry/complete_catalogue"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:nether_wastes"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:the_end"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:frozen_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:jagged_peaks"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 14,
-		"value": "minecraft:mushroom_fields"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:beach"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:windswept_savanna"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:windswept_forest"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:jungle"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:deep_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 20,
-		"value": "minecraft:stony_shore"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 10,
-		"value": "minecraft:snowy_beach"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 24,
-		"value": "minecraft:dark_forest"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 24,
-		"value": "minecraft:snowy_taiga"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:savanna"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:savanna_plateau"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 10,
-		"value": "minecraft:badlands"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 14,
-		"value": "minecraft:wooded_badlands"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 11,
-		"value": "minecraft:warm_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 11,
-		"value": "minecraft:lukewarm_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 13,
-		"value": "minecraft:cold_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 11,
-		"value": "minecraft:deep_lukewarm_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 11,
-		"value": "minecraft:deep_cold_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 11,
-		"value": "minecraft:deep_frozen_ocean"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 16,
-		"value": "minecraft:sunflower_plains"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 17,
-		"value": "minecraft:windswept_gravelly_hills"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:flower_forest"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 14,
-		"value": "minecraft:ice_spikes"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 22,
-		"value": "minecraft:bamboo_jungle"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:soul_sand_valley"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:crimson_forest"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:warped_forest"
-	  },
-	  {
-		"type": "bongo.biome",
-		"weight": 15,
-		"value": "minecraft:basalt_deltas"
-	  }
-	]
-  }
-  
+  "tasks": [
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:acacia_boat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:acacia_leaves"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:acacia_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:activator_rail"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:allium"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:amethyst_cluster"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:ancient_debris"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:andesite_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:anvil"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 30,
+      "value": {
+        "item": "minecraft:apple"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:armor_stand"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:azalea"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:azure_bluet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:baked_potato"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:bamboo"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:barrel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:basalt"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:beacon"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:bee_nest"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:beef"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:beehive"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:beetroot_seeds"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:beetroot_soup"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:bell"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:big_dripleaf"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:birch_fence_gate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:black_banner"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:black_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:black_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:black_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 5,
+      "value": {
+        "item": "minecraft:blackstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 5,
+      "value": {
+        "item": "minecraft:blackstone_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 5,
+      "value": {
+        "item": "minecraft:blackstone_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:blast_furnace"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:blaze_powder"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:blaze_rod"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:blue_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:blue_ice"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:blue_orchid"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:blue_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:bone_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:bone_meal"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:book"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:bookshelf"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brain_coral"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brain_coral_fan"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:bread"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:brewing_stand"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brick"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brick_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:brown_bed"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 30,
+      "value": {
+        "item": "minecraft:brown_mushroom"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:brown_mushroom_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:brown_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:bubble_coral"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:bubble_coral_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:bubble_coral_fan"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cactus"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cake"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:campfire"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:carrot_on_a_stick"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cartography_table"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:carved_pumpkin"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cauldron"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:chain"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:charcoal"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chest_minecart"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:chipped_anvil"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chiseled_nether_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chiseled_polished_blackstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chiseled_quartz_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chiseled_red_sandstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chiseled_sandstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:chiseled_stone_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:chorus_flower"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:chorus_fruit"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:clay"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:clock"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:coal_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:coal_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:coarse_dirt"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:cocoa_beans"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:cod_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:comparator"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:compass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:composter"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:conduit"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_chicken"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_cod"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_mutton"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_porkchop"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_rabbit"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cooked_salmon"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cookie"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cornflower"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:cracked_nether_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:cracked_polished_blackstone_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:cracked_stone_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:crimson_nylium"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:crimson_planks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:crimson_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:crimson_stem"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:crying_obsidian"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cut_red_sandstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cut_red_sandstone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cut_sandstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:cut_sandstone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 17,
+      "value": {
+        "item": "minecraft:cyan_concrete"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:cyan_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 17,
+      "value": {
+        "item": "minecraft:cyan_wool"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:damaged_anvil"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dandelion"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dark_oak_sapling"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dark_oak_wood"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:dark_prismarine"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:dark_prismarine_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:dark_prismarine_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:daylight_detector"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:dead_brain_coral"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:dead_brain_coral_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:dead_brain_coral_fan"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:detector_rail"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_axe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:diamond_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_boots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_chestplate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_helmet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_hoe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_horse_armor"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_leggings"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_pickaxe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_shovel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diamond_sword"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:diorite_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dispenser"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:dragon_breath"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:dragon_egg"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dried_kelp"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dried_kelp_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:dropper"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:egg"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:elytra"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:emerald_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:emerald_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:enchanting_table"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:end_crystal"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:end_rod"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:end_stone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:end_stone_brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:end_stone_brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:end_stone_brick_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:end_stone_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:ender_chest"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:ender_eye"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:ender_pearl"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:fern"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:fire_charge"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:fire_coral"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:fire_coral_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:fire_coral_fan"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:fishing_rod"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:fletching_table"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:flower_pot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:flowering_azalea"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:furnace_minecart"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:gilded_blackstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:glass_bottle"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:glass_pane"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:glistering_melon_slice"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:glowstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:gold_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_boots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_chestplate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_helmet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_horse_armor"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_leggings"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:granite_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:grass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:grass_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:gray_concrete_powder"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:gray_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:gray_stained_glass_pane"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:green_dye"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:green_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:grindstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:gunpowder"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:hay_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 16,
+      "value": {
+        "item": "minecraft:heavy_weighted_pressure_plate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:honey_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:honeycomb_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:hopper"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:hopper_minecart"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:horn_coral"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:horn_coral_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:horn_coral_fan"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:ice"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 23,
+      "value": {
+        "item": "minecraft:ink_sac"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_bars"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_door"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_helmet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_horse_armor"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_leggings"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 23,
+      "value": {
+        "item": "minecraft:item_frame"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 23,
+      "value": {
+        "item": "minecraft:jack_o_lantern"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:jukebox"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 16,
+      "value": {
+        "item": "minecraft:jungle_log"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 16,
+      "value": {
+        "item": "minecraft:jungle_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:kelp"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 28,
+      "value": {
+        "item": "minecraft:lantern"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:lapis_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:lapis_lazuli"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:lapis_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:lava_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:lead"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:leather_chestplate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:leather_leggings"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:lectern"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:light_blue_banner"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:light_blue_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:light_gray_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:light_gray_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:light_weighted_pressure_plate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:lilac"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:lily_of_the_valley"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:lily_pad"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:lime_dye"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:lime_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:lime_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:lodestone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:loom"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:magenta_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:magenta_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:magenta_wool"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:magma_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:magma_cream"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:melon"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:melon_seeds"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:melon_slice"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:milk_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 29,
+      "value": {
+        "item": "minecraft:minecart"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_cobblestone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_cobblestone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_cobblestone_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_cobblestone_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_stone_brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_stone_brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_stone_brick_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:mossy_stone_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:mushroom_stew"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_11"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_13"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_blocks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_cat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_chirp"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_far"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:music_disc_mall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:music_disc_mellohi"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_pigstep"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_stal"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_strad"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_wait"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:music_disc_ward"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:mutton"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:mycelium"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:name_tag"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:nether_brick"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:nether_brick_fence"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:nether_brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:nether_brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:nether_brick_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:nether_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 5,
+      "value": {
+        "item": "minecraft:nether_gold_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 5,
+      "value": {
+        "item": "minecraft:nether_quartz_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:nether_sprouts"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:nether_wart_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_boots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_chestplate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_helmet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_hoe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_leggings"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:note_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:oak_wood"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 23,
+      "value": {
+        "item": "minecraft:observer"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:orange_bed"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:orange_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:orange_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:orange_tulip"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:orange_wool"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:oxeye_daisy"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:packed_ice"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:painting"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:paper"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:peony"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:pink_carpet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:pink_dye"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:pink_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:pink_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:piston"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:podzol"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:poisonous_potato"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 27,
+      "value": {
+        "item": "minecraft:polished_andesite"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_basalt"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_button"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_pressure_plate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:polished_blackstone_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:polished_diorite_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 8,
+      "value": {
+        "item": "minecraft:polished_granite_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:popped_chorus_fruit"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 28,
+      "value": {
+        "item": "minecraft:poppy"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 28,
+      "value": {
+        "item": "minecraft:porkchop"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 28,
+      "value": {
+        "item": "minecraft:potato"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:powder_snow_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:powered_rail"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_crystals"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_shard"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:prismarine_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 23,
+      "value": {
+        "item": "minecraft:pufferfish"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 23,
+      "value": {
+        "item": "minecraft:pufferfish_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:pumpkin"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:pumpkin_pie"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:pumpkin_seeds"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:purple_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:purpur_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:purpur_pillar"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:purpur_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:purpur_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:quartz_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:quartz_pillar"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:quartz_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:quartz_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:rabbit"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:rabbit_hide"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:rabbit_stew"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:rail"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:red_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:red_mushroom"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:red_nether_brick_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:red_nether_brick_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:red_nether_brick_wall"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:red_nether_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:red_sand"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:red_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:red_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:red_tulip"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:red_wool"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:redstone_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:redstone_lamp"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:redstone_ore"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:redstone_torch"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:repeater"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:rose_bush"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:saddle"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:salmon"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:salmon_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:scaffolding"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:scute"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:sea_lantern"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:sea_pickle"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:seagrass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:shroomlight"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:shulker_box"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:shulker_shell"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:slime_ball"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:smithing_table"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:smoker"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_quartz"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_quartz_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_quartz_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_red_sandstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_red_sandstone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_red_sandstone_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_sandstone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_stone"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:smooth_stone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 16,
+      "value": {
+        "item": "minecraft:snow_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 16,
+      "value": {
+        "item": "minecraft:snowball"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:soul_campfire"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:soul_lantern"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:soul_sand"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:soul_soil"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 11,
+      "value": {
+        "item": "minecraft:soul_torch"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 19,
+      "value": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:sponge"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:spruce_fence"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:spruce_pressure_plate"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:sticky_piston"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:stone_slab"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:stone_stairs"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:stonecutter"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:stripped_crimson_hyphae"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:stripped_crimson_stem"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:stripped_oak_log"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:stripped_warped_hyphae"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:stripped_warped_stem"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:sugar"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 16,
+      "value": {
+        "item": "minecraft:sunflower"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 13,
+      "value": {
+        "item": "minecraft:suspicious_stew"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:tall_grass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:target"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
+        "item": "minecraft:terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:tnt"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 22,
+      "value": {
+        "item": "minecraft:tnt_minecart"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 18,
+      "value": {
+        "item": "minecraft:totem_of_undying"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:trapped_chest"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:trident"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:tripwire_hook"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 12,
+      "value": {
+        "item": "minecraft:tropical_fish_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:tube_coral"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:tube_coral_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:tube_coral_fan"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:turtle_egg"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:turtle_helmet"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:twisting_vines"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:vine"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_button"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_door"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_fungus"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_fungus_on_a_stick"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_trapdoor"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:warped_wart_block"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:water_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:weeping_vines"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 14,
+      "value": {
+        "item": "minecraft:wet_sponge"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:white_dye"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:white_glazed_terracotta"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:wither_rose"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 30,
+      "value": {
+        "item": "minecraft:wither_skeleton_skull"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 24,
+      "value": {
+        "item": "minecraft:writable_book"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:yellow_bed"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:yellow_shulker_box"
+      }
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:bat"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:bee"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:blaze"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 12,
+      "value": "minecraft:dolphin"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:donkey"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 14,
+      "value": "minecraft:drowned"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:elder_guardian"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 12,
+      "value": "minecraft:ender_dragon"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:enderman"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:endermite"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 14,
+      "value": "minecraft:evoker"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:fox"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:ghast"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:guardian"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:hoglin"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:horse"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:husk"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:illusioner"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 19,
+      "value": "minecraft:iron_golem"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:llama"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:magma_cube"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:mule"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 14,
+      "value": "minecraft:ocelot"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 13,
+      "value": "minecraft:panda"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 13,
+      "value": "minecraft:parrot"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:phantom"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:piglin"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:pillager"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 14,
+      "value": "minecraft:polar_bear"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 14,
+      "value": "minecraft:pufferfish"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 18,
+      "value": "minecraft:rabbit"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:ravager"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:salmon"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:sheep"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:shulker"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:silverfish"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:skeleton_horse"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 13,
+      "value": "minecraft:slime"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:snow_golem"
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:spore_blossom"
+      }
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 24,
+      "value": "minecraft:stray"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 25,
+      "value": "minecraft:strider"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:trader_llama"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:tropical_fish"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:turtle"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:vex"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 17,
+      "value": "minecraft:villager"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:vindicator"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 14,
+      "value": "minecraft:wandering_trader"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 17,
+      "value": "minecraft:witch"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 10,
+      "value": "minecraft:wither"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 22,
+      "value": "minecraft:wither_skeleton"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 22,
+      "value": "minecraft:wolf"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:zoglin"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:zombie_villager"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 20,
+      "value": "minecraft:zombified_piglin"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/obtain_crying_obsidian"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/distract_piglin"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/obtain_armor"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 2,
+      "value": "minecraft:adventure/very_very_frightening"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/lava_bucket"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:end/kill_dragon"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 2,
+      "value": "minecraft:nether/all_potions"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:husbandry/tame_an_animal"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 13,
+      "value": "minecraft:nether/create_beacon"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/deflect_arrow"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/iron_tools"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 30,
+      "value": "minecraft:nether/brew_potion"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:end/dragon_egg"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 22,
+      "value": "minecraft:husbandry/fishy_business"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 23,
+      "value": "minecraft:nether/explore_nether"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:nether/ride_strider"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:adventure/sniper_duel"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:nether/root"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 28,
+      "value": "minecraft:end/levitate"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 1,
+      "value": "minecraft:nether/all_effects"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:adventure/bullseye"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/get_wither_skull"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 5,
+      "value": "minecraft:husbandry/bred_all_animals"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:story/mine_stone"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 8,
+      "value": "minecraft:adventure/two_birds_one_arrow"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/enter_the_nether"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:adventure/whos_the_pillager_now"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:story/upgrade_tools"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:husbandry/tactical_fishing"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:story/cure_zombie_villager"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 8,
+      "value": "minecraft:end/find_end_city"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 22,
+      "value": "minecraft:story/form_obsidian"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:end/enter_end_gateway"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 22,
+      "value": "minecraft:nether/obtain_blaze_rod"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:nether/loot_bastion"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:adventure/shoot_arrow"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:husbandry/silk_touch_nest"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:adventure/arbalistic"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:end/respawn_dragon"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/smelt_iron"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/charge_respawn_anchor"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:story/shiny_gear"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 16,
+      "value": "minecraft:end/elytra"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 16,
+      "value": "minecraft:adventure/summon_iron_golem"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 19,
+      "value": "minecraft:nether/return_to_sender"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:adventure/sleep_in_bed"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:end/dragon_breath"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 5,
+      "value": "minecraft:adventure/root"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:adventure/kill_all_mobs"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:story/enchant_item"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 8,
+      "value": "minecraft:adventure/voluntary_exile"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:story/follow_ender_eye"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 30,
+      "value": "minecraft:end/root"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:husbandry/obtain_netherite_hoe"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:adventure/totem_of_undying"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 5,
+      "value": "minecraft:adventure/kill_a_mob"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:adventure/adventuring_time"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 5,
+      "value": "minecraft:husbandry/plant_seed"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:nether/find_bastion"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 8,
+      "value": "minecraft:adventure/hero_of_the_village"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:nether/obtain_ancient_debris"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:nether/create_full_beacon"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 22,
+      "value": "minecraft:nether/summon_wither"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 15,
+      "value": "minecraft:husbandry/balanced_diet"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/fast_travel"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 8,
+      "value": "minecraft:husbandry/root"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:nether/use_lodestone"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 18,
+      "value": "minecraft:husbandry/safely_harvest_honey"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:adventure/trade"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 5,
+      "value": "minecraft:nether/uneasy_alliance"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:story/mine_diamond"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/find_fortress"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:adventure/throw_trident"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 8,
+      "value": "minecraft:story/root"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 22,
+      "value": "minecraft:adventure/honey_block_slide"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:adventure/ol_betsy"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 20,
+      "value": "minecraft:nether/netherite_armor"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 25,
+      "value": "minecraft:story/enter_the_end"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:husbandry/breed_an_animal"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 10,
+      "value": "minecraft:husbandry/complete_catalogue"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:nether_wastes"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:the_end"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:frozen_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:jagged_peaks"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 14,
+      "value": "minecraft:mushroom_fields"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:beach"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:windswept_savanna"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:windswept_forest"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:jungle"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:deep_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 20,
+      "value": "minecraft:stony_shore"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 10,
+      "value": "minecraft:snowy_beach"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 24,
+      "value": "minecraft:dark_forest"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 24,
+      "value": "minecraft:snowy_taiga"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:savanna"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:savanna_plateau"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 10,
+      "value": "minecraft:badlands"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 14,
+      "value": "minecraft:wooded_badlands"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 11,
+      "value": "minecraft:warm_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 11,
+      "value": "minecraft:lukewarm_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 13,
+      "value": "minecraft:cold_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 11,
+      "value": "minecraft:deep_lukewarm_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 11,
+      "value": "minecraft:deep_cold_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 11,
+      "value": "minecraft:deep_frozen_ocean"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 16,
+      "value": "minecraft:sunflower_plains"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 17,
+      "value": "minecraft:windswept_gravelly_hills"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:flower_forest"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 14,
+      "value": "minecraft:ice_spikes"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 22,
+      "value": "minecraft:bamboo_jungle"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:soul_sand_valley"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:crimson_forest"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:warped_forest"
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 15,
+      "value": "minecraft:basalt_deltas"
+    },
+
+
+
+    {
+      "type": "bongo.item",
+      "weight": 95,
+      "value": {
+        "item": "minecraft:axolotl_bucket"
+      }
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 120,
+      "value": "minecraft:adventure/fall_from_world_height"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 100,
+      "value": "minecraft:adventure/play_jukebox_in_meadows"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 65,
+      "value": "minecraft:adventure/spyglass_at_dragon"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 110,
+      "value": "minecraft:adventure/spyglass_at_ghast"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 125,
+      "value": "minecraft:adventure/trade_at_world_height"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 95,
+      "value": "minecraft:husbandry/axolotl_in_a_bucket"
+    },
+
+
+
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:cherry_chest_boat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:disc_fragment_5"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:echo_shard"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 85,
+      "value": {
+        "item": "minecraft:goat_horn"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:mangrove_propagule"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:mangrove_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 55,
+      "value": {
+        "item": "minecraft:mud"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 55,
+      "value": {
+        "item": "minecraft:mud_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:muddy_mangrove_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 85,
+      "value": {
+        "item": "minecraft:music_disc_5"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 55,
+      "value": {
+        "item": "minecraft:music_disc_otherside"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:ochre_froglight"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:pearlescent_froglight"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 100,
+      "value": {
+        "item": "minecraft:recovery_compass"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:sculk"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:sculk_catalyst"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:sculk_sensor"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 25,
+      "value": {
+        "item": "minecraft:sculk_shrieker"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 95,
+      "value": {
+        "item": "minecraft:tadpole_bucket"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 10,
+      "value": {
+        "item": "minecraft:verdant_froglight"
+      }
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 45,
+      "value": "minecraft:deep_dark"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 65,
+      "value": "minecraft:allay"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 95,
+      "value": "minecraft:warden"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 45,
+      "value": "minecraft:adventure/kill_mob_near_sculk_catalyst"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 100,
+      "value": "minecraft:husbandry/allay_deliver_cake_to_note_block"
+    },
+
+
+
+    {
+      "type": "bongo.item",
+      "weight": 45,
+      "value": {
+        "item": "minecraft:decorated_pot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:music_disc_relic"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:pink_petals"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 15,
+      "value": {
+        "item": "minecraft:sniffer_egg"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:suspicious_gravel"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 105,
+      "value": {
+        "item": "minecraft:suspicious_sand"
+      }
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 90,
+      "value": "minecraft:camel"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 15,
+      "value": "minecraft:sniffer"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 100,
+      "value": "minecraft:adventure/trim_with_any_armor_pattern"
+    }
+  ]
+}

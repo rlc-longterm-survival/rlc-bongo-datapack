@@ -7,7 +7,7 @@
 	  "consume_items": true,
 	  "lock_task_on_death": false,
 	  "teleports_per_team": 0,
-	  "time": 5625,
+	  "time": 3600,
 	  "leaderboard": true
 	},
 	"level": {

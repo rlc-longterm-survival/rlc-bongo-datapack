@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/avoid_vibration"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:adventure/kill_mob_near_sculk_catalyst"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:husbandry/allay_deliver_cake_to_note_block"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:husbandry/allay_deliver_item_to_player"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:husbandry/froglights"
+    },
+    {
+      "type": "bongo.advancement",
+      "value": "minecraft:husbandry/ride_a_boat_with_a_goat"
+    }
+  ]
+}

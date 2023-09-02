@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.entity",
+      "value": "minecraft:allay"
+    },
+    {
+      "type": "bongo.entity",
+      "value": "minecraft:goat"
+    },
+    {
+      "type": "bongo.entity",
+      "value": "minecraft:warden"
+    }
+  ]
+}

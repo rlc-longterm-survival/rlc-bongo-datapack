@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:boats",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:chest_boats",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:compasses",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:dirt",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:flowers",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:music_discs",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:saplings",
+        "count": 1
+      }
+    }
+  ]
+}

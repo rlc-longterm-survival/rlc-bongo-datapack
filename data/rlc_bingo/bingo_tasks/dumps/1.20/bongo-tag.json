@@ -1,0 +1,88 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:boats",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:cherry_logs",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:completes_find_tree_tutorial",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:flowers",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:hanging_signs",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:logs",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:logs_that_burn",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:music_discs",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:planks",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:sand",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:saplings",
+        "count": 1
+      }
+    },
+    {
+      "type": "bongo.tag",
+      "value": {
+        "id": "minecraft:signs",
+        "count": 1
+      }
+    }
+  ]
+}

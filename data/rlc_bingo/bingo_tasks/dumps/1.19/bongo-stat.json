@@ -1,0 +1,204 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:crafted",
+        "stat": "minecraft:decorated_pot",
+        "value": 1
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:crouch_one_cm",
+        "value": 386
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:fly_one_cm",
+        "value": 51193
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:interact_with_beacon",
+        "value": 3
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:interact_with_crafting_table",
+        "value": 2
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:jump",
+        "value": 57
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:leave_game",
+        "value": 6
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:play_time",
+        "value": 22973
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:sneak_time",
+        "value": 335
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:sprint_one_cm",
+        "value": 19861
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:time_since_death",
+        "value": 22973
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:time_since_rest",
+        "value": 22973
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:total_world_time",
+        "value": 91633
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:walk_on_water_one_cm",
+        "value": 528
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:custom",
+        "stat": "minecraft:walk_one_cm",
+        "value": 9920
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:beacon",
+        "value": 3
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:birch_sign",
+        "value": 4
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:crafting_table",
+        "value": 1
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:decorated_pot",
+        "value": 1
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:diamond_block",
+        "value": 94
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:mud",
+        "value": 1
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:pearlescent_froglight",
+        "value": 3
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:tadpole_spawn_egg",
+        "value": 20
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:torch",
+        "value": 4
+      }
+    },
+    {
+      "type": "bongo.stat",
+      "value": {
+        "category": "minecraft:used",
+        "stat": "minecraft:water_bucket",
+        "value": 4
+      }
+    }
+  ]
+}

@@ -39,6 +39,13 @@
       "type": "bongo.item",
       "weight": 20,
       "value": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 20,
+      "value": {
         "item": "minecraft:ancient_debris"
       }
     },
@@ -4253,6 +4260,254 @@
       "type": "bongo.biome",
       "weight": 15,
       "value": "minecraft:basalt_deltas"
+    },
+
+
+
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:axolotl_bucket"
+      }
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 110,
+      "value": "minecraft:adventure/fall_from_world_height"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 90,
+      "value": "minecraft:adventure/spyglass_at_ghast"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 90,
+      "value": "minecraft:adventure/spyglass_at_parrot"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 65,
+      "value": "minecraft:adventure/trade_at_world_height"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 100,
+      "value": "minecraft:adventure/walk_on_powder_snow_with_leather_boots"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 65,
+      "value": "minecraft:husbandry/axolotl_in_a_bucket"
+    },
+
+
+
+    {
+      "type": "bongo.item",
+      "weight": 95,
+      "value": {
+        "item": "minecraft:cherry_chest_boat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 100,
+      "value": {
+        "item": "minecraft:disc_fragment_5"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 100,
+      "value": {
+        "item": "minecraft:echo_shard"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 95,
+      "value": {
+        "item": "minecraft:goat_horn"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:mangrove_propagule"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:mangrove_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:mud"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:mud_bricks"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 75,
+      "value": {
+        "item": "minecraft:muddy_mangrove_roots"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:oak_chest_boat"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 65,
+      "value": {
+        "item": "minecraft:tadpole_bucket"
+      }
+    },
+    {
+      "type": "bongo.biome",
+      "weight": 75,
+      "value": "minecraft:deep_dark"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 75,
+      "value": "minecraft:allay"
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 45,
+      "value": "minecraft:goat"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 105,
+      "value": "minecraft:adventure/avoid_vibration"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 65,
+      "value": "minecraft:adventure/kill_mob_near_sculk_catalyst"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 95,
+      "value": "minecraft:husbandry/allay_deliver_item_to_player"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 45,
+      "value": "minecraft:husbandry/ride_a_boat_with_a_goat"
+    },
+
+
+    
+    {
+      "type": "bongo.item",
+      "weight": 95,
+      "value": {
+        "item": "minecraft:bamboo_hanging_sign"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 105,
+      "value": {
+        "item": "minecraft:bamboo_mosaic"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 100,
+      "value": {
+        "item": "minecraft:bamboo_raft"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 100,
+      "value": {
+        "item": "minecraft:bamboo_sign"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 90,
+      "value": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 90,
+      "value": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 90,
+      "value": {
+        "item": "minecraft:cherry_wood"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 55,
+      "value": {
+        "item": "minecraft:chiseled_bookshelf"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 80,
+      "value": {
+        "item": "minecraft:decorated_pot"
+      }
+    },
+    {
+      "type": "bongo.item",
+      "weight": 100,
+      "value": {
+        "item": "minecraft:suspicious_sand"
+      }
+    },
+    {
+      "type": "bongo.entity",
+      "weight": 110,
+      "value": "minecraft:camel"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 85,
+      "value": "minecraft:adventure/read_power_of_chiseled_bookshelf"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 110,
+      "value": "minecraft:adventure/salvage_sherd"
+    },
+    {
+      "type": "bongo.advancement",
+      "weight": 100,
+      "value": "minecraft:adventure/trim_with_any_armor_pattern"
     }
   ]
 }
