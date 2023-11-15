@@ -1,3 +1,5 @@
+# REMEMBER TO FORCELOAD [0,0] IN THE LOBBY!
+
 execute in bingolobby:lobby if block 0 68 0 air run tag @a[nbt={Health:0.0f}] add respawned
 tag @a[nbt={Health:0.0f}] add respawned_rule
 
@@ -20,3 +22,4 @@ effect clear @a[tag=respawned_rule]
 execute in bingolobby:lobby if block 0 70 0 amethyst_block run effect give @a[tag=respawned_rule] night_vision infinite 0 true
 
 tag @e[type=player,tag=respawned] remove respawned
+tag @e[type=player,tag=respawned_rule] remove respawned_rule
